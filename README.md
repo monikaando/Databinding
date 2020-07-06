@@ -3,6 +3,8 @@ In this assignment I practiced:
 1. Databiding
 2. string interpolation
 
+<img src="https://res.cloudinary.com/mokaweb/image/upload/v1594068778/Udemy%20Angular%20TypeScript/Databinding-6.gif" alt="Databinding5"> 
+
 <img src="https://res.cloudinary.com/mokaweb/image/upload/v1593445118/Udemy%20Angular%20TypeScript/Databinding-5.gif" alt="Databinding5"> 
 
 <img src="https://res.cloudinary.com/mokaweb/image/upload/v1593440165/Udemy%20Angular%20TypeScript/Databinding4.gif" alt="Databinding4">
